@@ -1,0 +1,11 @@
+{
+	"components": {
+		"tims-component": {
+			"innerComponents": []
+		},
+		"header-container": {
+			"innerComponents": []
+		}
+	},
+	"scopeName": "sn_tims_comopnent"
+}
